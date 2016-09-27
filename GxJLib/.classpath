@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="cron4j-2.2.5.jar"/>
+	<classpathentry kind="lib" path="json-20160212.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-3.1.14-bin.jar"/>
+	<classpathentry kind="lib" path="org-apache-xmlrpc.jar"/>
+	<classpathentry kind="lib" path="src/com/gexy/security/jasypt-1.9.2.jar"/>
+	<classpathentry kind="lib" path="pdfbox-2.0.2.jar"/>
+	<classpathentry kind="lib" path="javax.jar"/>
+	<classpathentry kind="lib" path="TableLayout-bin-jdk1.5-2009-08-26.jar"/>
+	<classpathentry kind="lib" path="TableLayout-javadoc-2009-08-26.jar"/>
+	<classpathentry kind="lib" path="TableLayoutExtensions-all-jdk1.5-2009-08-26.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
